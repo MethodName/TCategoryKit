@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TCategoryKit_Tests' do
+  pod 'TCategoryKit', :path => '../'
+  
+  
+end
